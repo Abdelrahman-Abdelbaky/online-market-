@@ -1,15 +1,19 @@
 ﻿using Market.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Linq;
 
 namespace Market.Controllers
 {
     public class HomeController : Controller
     {
         private MarketDBContext db;
-        public HomeController(MarketDBContext context)
+        private Microsoft.AspNetCore.Hosting.IHostingEnvironment _appEnvironment;
+
+        public HomeController(MarketDBContext context, Microsoft.AspNetCore.Hosting.IHostingEnvironment appEnvironment)
         {
             db = context;
+            _appEnvironment = appEnvironment;
         }
 
         public IActionResult Index()
@@ -64,11 +68,120 @@ namespace Market.Controllers
 
         public IActionResult HomePage()
         {
+            return View(db.products.ToList());
+        }
+
+        public IActionResult Addproduct()
+        {
             return View();
         }
-        
 
-       [HttpPost]
+
+        public IActionResult ShowProdect(int? id)
+        {
+            foreach (var item in db.products)
+            {
+                if (item.Id.Equals((int)id))
+                {
+                    TempData["ShowProductName"] = item.name;
+                    TempData["showProductPrice"] = item.price;
+                    TempData["showProductCategory"] = item.category;
+                    TempData["ShowproductCount"] = item.productCount;
+                    TempData["ShowProductImgSrc"] = item.imgSrc;
+                    TempData["showProductDescription"] = item.description;
+
+                }
+            }
+            return View(id);
+        }
+
+        public IActionResult deleteProdect()
+        {
+            int id = (int)TempData["productId"];
+            db.products.Remove(db.products.Find(id));
+            db.SaveChanges();
+            return RedirectToAction("productTable");
+        }
+
+        public void getDataByID(int id) {
+            foreach (var item in db.products)
+            {
+                if (item.Id.Equals(id))
+                {
+                    TempData["productName"] = item.name;
+                    TempData["productPrice"] = item.price;
+                    TempData["productCategory"] = item.category;
+                    TempData["productCount"] = item.productCount;
+                    TempData["productImgSrc"] = item.imgSrc;
+                    TempData["productDescription"] = item.description;
+
+                }
+            }
+        }
+   
+
+        public product SendDataTOform(product model) {
+            model.name = (string)TempData["productName"];
+            model.price = (int)TempData["productPrice"];
+            model.category = (int)TempData["productCategory"];
+            model.productCount = (int)TempData["productCount"];
+            model.description = (string)TempData["productDescription"];
+            model.imgSrc = (string)TempData["productImgSrc"];
+            model.insertTime = DateTime.Now;
+            return model;
+        }
+
+        public IActionResult updateProduct(int id,product model)
+        {
+            TempData["productId"]=id;
+            getDataByID(id);
+            model = SendDataTOform(model);
+            return View(model);
+        }
+        [HttpPost]
+        public async Task<IActionResult> updateProductItem(product model)
+        {
+            model.Id = (int)TempData["productId"];
+         
+
+            if (model.img != null) 
+            {
+                string Folder = "image/";
+                Folder += Guid.NewGuid().ToString() + "_" + model.img.FileName;
+                string serverFolder = Path.Combine(_appEnvironment.WebRootPath, Folder);
+                await model.img.CopyToAsync(new FileStream(serverFolder, FileMode.Create));
+                model.imgSrc = Folder;
+            }   
+            db.products.Update(model);
+            db.SaveChanges(); 
+            return RedirectToAction("productTable");
+        }
+
+
+
+        [HttpPost]
+        public async Task<IActionResult> addProductItem(product model)
+        {
+                model.insertTime = DateTime.Now;    
+                string Folder = "image/";
+                Folder += Guid.NewGuid().ToString() + "_" + model.img.FileName;
+                string serverFolder = Path.Combine(_appEnvironment.WebRootPath, Folder);
+                await model.img.CopyToAsync(new FileStream(serverFolder, FileMode.Create));
+                model.imgSrc = Folder;
+                db.products.Add(model);
+                db.SaveChanges();
+
+            return RedirectToAction("Addproduct");
+        }
+
+
+        public IActionResult productTable()
+        {
+            return View(db.products.ToList());
+        }
+
+
+        [HttpPost]
         public IActionResult UserRegister(User model)
         {
             if (CheckRegister(model))
@@ -202,7 +315,7 @@ namespace Market.Controllers
                 if (CheckAdminPassword(model))
                 {
                     RenderAdminData(model);
-                    return RedirectToAction("AdminHomePage");
+                    return RedirectToAction("productTable");
                 }
                 else
                 {
@@ -252,11 +365,10 @@ namespace Market.Controllers
                 }
             }
         }
-        
-            
-        
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        [HttpPost]
+       
+            [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });

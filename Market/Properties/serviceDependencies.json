@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:Connection"
+    },
+    "secrets1": {
+      "type": "secrets",
+      "connectionId": null
+    },
     "mssql1": {
       "type": "mssql",
       "connectionId": "ConnectionStrings:DefaultConnection"
