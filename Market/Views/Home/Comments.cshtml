@@ -1,0 +1,27 @@
+﻿@model Comments
+
+
+<form asp-action="AddComments">
+   
+
+    <div class="form-group mt-3">
+        <textarea class="form-control" asp-for="Text"  rows="5" placeholder="Message" required=""></textarea>
+    </div>
+
+    <div class="text-center" style="padding-top:7px;">
+        
+            <button type="submit" style="background: #2487ce;border: 0;padding: 10px 30px;color: #fff;transition: 0.4s;border-radius: 4px;">
+             Send a Comment
+         </button>
+        
+    </div>
+</form>
+
+@{
+    if(TempData["CommentMsg"] != null)
+    {
+        <script>
+            alert(@TempData["CommentMsg"])
+        </script>
+    }
+}

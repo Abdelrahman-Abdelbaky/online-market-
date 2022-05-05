@@ -1,0 +1,12 @@
+﻿@model List<User>
+
+@foreach (var item in Model)
+{
+    <p>@item.Id</p>
+    <p>@item.Username</p>
+    <p>@item.Password</p>
+    <p>@item.Email</p>
+    <p>@item.Mobile</p>
+    <p>@item.Address</p>
+    <a class="btn btn-danger" href="/Home/Delete/@item.Id">></a>
+}
