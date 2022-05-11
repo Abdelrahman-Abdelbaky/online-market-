@@ -12,5 +12,8 @@ namespace Market.Models
         public DbSet<Admin> admins { get; set; }
         public DbSet<User> users{ get; set; }
         public DbSet<Feedback> feedbacks { get; set; }
+        public DbSet<product> products { get; set; }
+        public DbSet<Comments> comments { get; set; }
+
     }
 }

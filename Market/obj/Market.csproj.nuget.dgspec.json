@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fcai\\level3SemesterTwo\\SW2\\project\\online-market-\\Market\\Market.csproj": {}
+    "E:\\ضحي\\online-market--master\\Market\\Market.csproj": {}
   },
   "projects": {
-    "D:\\fcai\\level3SemesterTwo\\SW2\\project\\online-market-\\Market\\Market.csproj": {
+    "E:\\ضحي\\online-market--master\\Market\\Market.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fcai\\level3SemesterTwo\\SW2\\project\\online-market-\\Market\\Market.csproj",
+        "projectUniqueName": "E:\\ضحي\\online-market--master\\Market\\Market.csproj",
         "projectName": "Market",
-        "projectPath": "D:\\fcai\\level3SemesterTwo\\SW2\\project\\online-market-\\Market\\Market.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\fcai\\level3SemesterTwo\\SW2\\project\\online-market-\\Market\\obj\\",
+        "projectPath": "E:\\ضحي\\online-market--master\\Market\\Market.csproj",
+        "packagesPath": "C:\\Users\\abdo ali\\.nuget\\packages\\",
+        "outputPath": "E:\\ضحي\\online-market--master\\Market\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abdo ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,6 +59,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
             }
           },
           "imports": [
@@ -79,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

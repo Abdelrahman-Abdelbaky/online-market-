@@ -1,0 +1,50 @@
+﻿@{
+    Layout = "/Views/Shared/_LoginLayout.cshtml";
+}
+
+@model User
+
+<html>
+    <head>
+        <title>E-Market</title>
+        <link rel="shortcut icon" type="image/png" href="~/materials/market.png">
+        <link rel="stylesheet" href="~/Logincss/Login.css">
+        
+    </head>
+    <body>
+        <div class="wrapper fadeInDown">
+          <div id="formContent">
+            <!-- Tabs Titles -->
+            <h1 class="active"> Sign Up </h1>
+            
+
+            <!-- Icon -->
+            <div class="fadeIn first">
+              <img src="~/materials/UserLogo.png"  />
+            </div>
+
+            <!-- Login Form -->
+            <form asp-action="UserRegister" asp-controller="User">
+              <input type="text" asp-for="Username" class="fadeIn second"  placeholder="Username" required="">
+              <input type="email" asp-for="Email" class="fadeIn second"  placeholder="Email" required="">
+              <input type="password" asp-for="Password" class="fadeIn third" placeholder="Password" required="">
+              <input type="text" asp-for="Address" class="fadeIn second"  placeholder="Address" required="">
+              <input type="text" asp-for="Mobile" class="fadeIn second"  placeholder="Mobile" required="">
+              <input type="submit" class="fadeIn fourth" value="Register">
+            </form>
+            <p class="text-center text-muted mt-5 mb-0">Have already an account? <a href="/Home/Index" class="fw-bold text-body"><u style="color:cornflowerblue">Login here</u></a></p>
+            <!-- Remind Passowrd -->
+          </div>
+        </div>
+</body>
+</html>
+
+@{
+    if(TempData["Register Error"] != null)
+    {
+        <script>
+            alert("@TempData["Register Error"]")
+        </script>
+    }
+
+}

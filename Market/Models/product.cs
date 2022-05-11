@@ -22,5 +22,48 @@ namespace Market.Models
 
         public int category { get; set; }
 
+        public List<Comments> ProductComment { get; set; }
+
+
+
+        public List<product> getProducts(MarketDBContext db)
+        {
+            return db.products.ToList();
+        }
+
+
+        public void addProduct(MarketDBContext db,product product)
+        {
+            db.products.Add(product);
+            db.SaveChanges();
+        }
+
+        public void updateProduct(MarketDBContext db, product product)
+        {
+            db.products.Update(product);
+            db.SaveChanges();
+        }
+        private product getProductByID(MarketDBContext db,int id)
+        {
+            return db.products.Find(id);
+        }
+
+        public void deleteProduct(MarketDBContext db, int id)
+        {
+            db.products.Remove(getProductByID(db, id));
+            db.SaveChanges();
+        }
+
+        public List<product> searchForProduct(string searchWord, MarketDBContext db)
+        {
+
+            return db.products.Where(c => c.name.Contains(searchWord)).ToList();
+
+        }
+
+
+
+
+
     }
 }

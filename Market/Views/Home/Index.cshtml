@@ -23,14 +23,15 @@
             </div>
 
             <!-- Login Form -->
-            <form asp-action="UserLogin">
+            <form asp-action="UserLogin" asp-controller="User">
               <input type="email" asp-for="Email" class="fadeIn second"  placeholder="Email" required="">
               <input type="password" asp-for="Password" class="fadeIn third" placeholder="Password" required="">
               <input type="submit" class="fadeIn fourth" value="Log In">
             </form>
             <p style="font-family:sans-serif;font-size:12;">If you are new user, you can create a new account</p>
-            <a href="/Home/Register"><button class="register__create" type="submit">create account</button></a>
-            <a href="/Home/Addmin"><button class="register__create" type="submit">Login as Admin</button></a>
+            <a href="/User/Register"><button class="register__create" type="submit">create account</button></a>
+            <a href="/Admin/Addmin"><button class="register__create" type="submit">Login as Admin</button></a>
+            <a href="/Home/HomePage"><button class="register__create" >Login as default account </button></a>
 
             <!-- Remind Passowrd -->
           </div>
