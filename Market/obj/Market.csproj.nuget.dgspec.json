@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ضحي\\online-market--master\\Market\\Market.csproj": {}
+    "E:\\ضحي\\project software\\online-market-\\Market\\Market.csproj": {}
   },
   "projects": {
-    "E:\\ضحي\\online-market--master\\Market\\Market.csproj": {
+    "E:\\ضحي\\project software\\online-market-\\Market\\Market.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ضحي\\online-market--master\\Market\\Market.csproj",
+        "projectUniqueName": "E:\\ضحي\\project software\\online-market-\\Market\\Market.csproj",
         "projectName": "Market",
-        "projectPath": "E:\\ضحي\\online-market--master\\Market\\Market.csproj",
+        "projectPath": "E:\\ضحي\\project software\\online-market-\\Market\\Market.csproj",
         "packagesPath": "C:\\Users\\abdo ali\\.nuget\\packages\\",
-        "outputPath": "E:\\ضحي\\online-market--master\\Market\\obj\\",
+        "outputPath": "E:\\ضحي\\project software\\online-market-\\Market\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdo ali\\AppData\\Roaming\\NuGet\\NuGet.Config",

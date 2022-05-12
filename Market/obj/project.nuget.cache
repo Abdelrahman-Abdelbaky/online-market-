@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sS94eqF3IVxMJm4qf2G6G1ZXgWgI4WJBGwa1qhXMaIefAGnvTbWy0A5dO8BUraNy23j7JJhTyoPcqWyhj+0hpA==",
+  "dgSpecHash": "VuYXCkkr+Z1bEeaJAkp9UXAhUJSIVmVhZJZHoM72Y7KBRykgUHP0Hiys1pkPMB5JyKCSHnlFZMd2upjltc744g==",
   "success": true,
-  "projectFilePath": "E:\\ضحي\\online-market--master\\Market\\Market.csproj",
+  "projectFilePath": "E:\\ضحي\\project software\\online-market-\\Market\\Market.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdo ali\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\abdo ali\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
