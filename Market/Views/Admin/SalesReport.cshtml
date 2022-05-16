@@ -1,0 +1,78 @@
+﻿@{
+     Layout = "/Views/Shared/_AdminLayout.cshtml";
+	  var report=ViewData["ReportSales"];
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Table V01</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/vendor/bootstrap/css/bootstrap.min.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/vendor/animate/animate.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/vendor/select2/select2.min.css">
+
+	<link rel="stylesheet" type="text/css" href="vendor/perfect-scrollbar/perfect-scrollbar.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/css/util.css">
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/css/main.css">
+
+</head>
+
+<body>
+	<h2>SalesReport</h2>
+@if(report !=null){
+
+	<div class="limiter">
+		<div class="container-table100">
+			<div class="wrap-table100">
+				<div class="table100">
+					<table>
+						<thead class="table table-bordered">
+							<tr class="table100-head" style="color:palevioletred">
+								<th class="column1">Product</th>
+								<th class="column2">Price</th>
+								<th class="column3">Quantity</th>
+								<th class="column4">User</th>
+								<th class="column5">TotalPayment</th>
+							</tr>
+						</thead>
+						<tbody>
+							@foreach (var item in (IEnumerable<SalesReport>)report)
+                             {
+								<tr>
+									<td class="column1">@item.productName</td>
+									<td class="column2">@item.price</td>
+									<td class="column3">@item.Quantity</td>
+									<td class="column4">@item.user.Username</td>
+									<td class="column5">@item.totalPayment</td>
+								</tr>
+							}
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>}
+
+
+	
+
+	<script src="~/assets/productTable/vendor/jquery/jquery-3.2.1.min.js"></script>
+
+	<script src="~/assets/productTable/vendor/bootstrap/js/popper.js"></script>
+	<script src="~/assets/productTable/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+	<script src="~/assets/productTable/vendor/select2/select2.min.js"></script>
+
+	<script src="~/assets/productTable/js/main.js"></script>
+
+</body>
+</html>

@@ -142,3 +142,1537 @@ E:\Market\Market\obj\Debug\net6.0\refint\Market.dll
 E:\Market\Market\obj\Debug\net6.0\Market.pdb
 E:\Market\Market\obj\Debug\net6.0\Market.genruntimeconfig.cache
 E:\Market\Market\obj\Debug\net6.0\ref\Market.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\appsettings.Development.json
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\appsettings.json
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Market.staticwebassets.runtime.json
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Market.exe
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Market.deps.json
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Market.runtimeconfig.json
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Market.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Market.pdb
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Humanizer.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.csproj.AssemblyReference.cache
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.AssemblyInfoInputs.cache
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.AssemblyInfo.cs
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.csproj.CoreCompileInputs.cache
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cs
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cache
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cache
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cs
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\staticwebassets.build.json
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\staticwebassets.development.json
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\scopedcss\bundle\Market.styles.css
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\scopedcss\projectbundle\Market.bundle.scp.css
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.csproj.CopyComplete
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\refint\Market.dll
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.pdb
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\Market.genruntimeconfig.cache
+D:\fcai\level3SemesterTwo\SW2\project\online-market-\Market\obj\Debug\net6.0\ref\Market.dll
+E:\online-market--master\Market\bin\Debug\net6.0\appsettings.Development.json
+E:\online-market--master\Market\bin\Debug\net6.0\appsettings.json
+E:\online-market--master\Market\bin\Debug\net6.0\Market.staticwebassets.runtime.json
+E:\online-market--master\Market\bin\Debug\net6.0\Market.exe
+E:\online-market--master\Market\bin\Debug\net6.0\Market.deps.json
+E:\online-market--master\Market\bin\Debug\net6.0\Market.runtimeconfig.json
+E:\online-market--master\Market\bin\Debug\net6.0\Market.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Market.pdb
+E:\online-market--master\Market\bin\Debug\net6.0\Humanizer.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\online-market--master\Market\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\online-market--master\Market\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\online-market--master\Market\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\online-market--master\Market\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\online-market--master\Market\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\online-market--master\Market\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\online-market--master\Market\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\online-market--master\Market\obj\Debug\net6.0\Market.csproj.AssemblyReference.cache
+E:\online-market--master\Market\obj\Debug\net6.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+E:\online-market--master\Market\obj\Debug\net6.0\Market.AssemblyInfoInputs.cache
+E:\online-market--master\Market\obj\Debug\net6.0\Market.AssemblyInfo.cs
+E:\online-market--master\Market\obj\Debug\net6.0\Market.csproj.CoreCompileInputs.cache
+E:\online-market--master\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cs
+E:\online-market--master\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cache
+E:\online-market--master\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cache
+E:\online-market--master\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cs
+E:\online-market--master\Market\obj\Debug\net6.0\staticwebassets.build.json
+E:\online-market--master\Market\obj\Debug\net6.0\staticwebassets.development.json
+E:\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+E:\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+E:\online-market--master\Market\obj\Debug\net6.0\scopedcss\bundle\Market.styles.css
+E:\online-market--master\Market\obj\Debug\net6.0\scopedcss\projectbundle\Market.bundle.scp.css
+E:\online-market--master\Market\obj\Debug\net6.0\Market.csproj.CopyComplete
+E:\online-market--master\Market\obj\Debug\net6.0\Market.dll
+E:\online-market--master\Market\obj\Debug\net6.0\refint\Market.dll
+E:\online-market--master\Market\obj\Debug\net6.0\Market.pdb
+E:\online-market--master\Market\obj\Debug\net6.0\Market.genruntimeconfig.cache
+E:\online-market--master\Market\obj\Debug\net6.0\ref\Market.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\appsettings.Development.json
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\appsettings.json
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Market.staticwebassets.runtime.json
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Market.exe
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Market.deps.json
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Market.runtimeconfig.json
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Market.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Market.pdb
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Humanizer.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.csproj.AssemblyReference.cache
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.AssemblyInfoInputs.cache
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.AssemblyInfo.cs
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.csproj.CoreCompileInputs.cache
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cs
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cache
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cache
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cs
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\staticwebassets.build.json
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\staticwebassets.development.json
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\scopedcss\bundle\Market.styles.css
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\scopedcss\projectbundle\Market.bundle.scp.css
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.csproj.CopyComplete
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.dll
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\refint\Market.dll
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.pdb
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\Market.genruntimeconfig.cache
+E:\ضحي\online-market--master\Market\obj\Debug\net6.0\ref\Market.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\MessagePack.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\NuGet.Common.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\ضحي\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\market.staticwebassets.runtime.json
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\market.exe
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\market.deps.json
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\market.runtimeconfig.json
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\market.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\market.pdb
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\MessagePack.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Downloads\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.AssemblyInfo.cs
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.RazorAssemblyInfo.cache
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.RazorAssemblyInfo.cs
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\scopedcss\bundle\market.styles.css
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\scopedcss\projectbundle\market.bundle.scp.css
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.csproj.CopyComplete
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.dll
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\refint\market.dll
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.pdb
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\market.genruntimeconfig.cache
+C:\Users\hp\Downloads\online-market--master\Market\obj\Debug\net6.0\ref\market.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\appsettings.Development.json
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\appsettings.json
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Market.staticwebassets.runtime.json
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Market.exe
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Market.deps.json
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Market.runtimeconfig.json
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Market.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Market.pdb
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Humanizer.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\MessagePack.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\NuGet.Common.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ضحي\New folder (10)\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.csproj.AssemblyReference.cache
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.AssemblyInfoInputs.cache
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.AssemblyInfo.cs
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.csproj.CoreCompileInputs.cache
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cs
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cache
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cache
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cs
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\staticwebassets.build.json
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\staticwebassets.development.json
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\scopedcss\bundle\Market.styles.css
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\scopedcss\projectbundle\Market.bundle.scp.css
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.csproj.CopyComplete
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.dll
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\refint\Market.dll
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.pdb
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\Market.genruntimeconfig.cache
+E:\ضحي\New folder (10)\online-market--master\Market\obj\Debug\net6.0\ref\Market.dll
+D:\online-market--master\Market\bin\Debug\net6.0\appsettings.Development.json
+D:\online-market--master\Market\bin\Debug\net6.0\appsettings.json
+D:\online-market--master\Market\bin\Debug\net6.0\Market.staticwebassets.runtime.json
+D:\online-market--master\Market\bin\Debug\net6.0\Market.exe
+D:\online-market--master\Market\bin\Debug\net6.0\Market.deps.json
+D:\online-market--master\Market\bin\Debug\net6.0\Market.runtimeconfig.json
+D:\online-market--master\Market\bin\Debug\net6.0\Market.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Market.pdb
+D:\online-market--master\Market\bin\Debug\net6.0\Humanizer.dll
+D:\online-market--master\Market\bin\Debug\net6.0\MessagePack.dll
+D:\online-market--master\Market\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\online-market--master\Market\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\online-market--master\Market\bin\Debug\net6.0\NuGet.Common.dll
+D:\online-market--master\Market\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\online-market--master\Market\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\online-market--master\Market\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\online-market--master\Market\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\online-market--master\Market\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\online-market--master\Market\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\online-market--master\Market\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\online-market--master\Market\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\online-market--master\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\online-market--master\Market\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\online-market--master\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\online-market--master\Market\obj\Debug\net6.0\Market.csproj.AssemblyReference.cache
+D:\online-market--master\Market\obj\Debug\net6.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\online-market--master\Market\obj\Debug\net6.0\Market.AssemblyInfoInputs.cache
+D:\online-market--master\Market\obj\Debug\net6.0\Market.AssemblyInfo.cs
+D:\online-market--master\Market\obj\Debug\net6.0\Market.csproj.CoreCompileInputs.cache
+D:\online-market--master\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cs
+D:\online-market--master\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cache
+D:\online-market--master\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cache
+D:\online-market--master\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cs
+D:\online-market--master\Market\obj\Debug\net6.0\staticwebassets.build.json
+D:\online-market--master\Market\obj\Debug\net6.0\staticwebassets.development.json
+D:\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\online-market--master\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+D:\online-market--master\Market\obj\Debug\net6.0\scopedcss\bundle\Market.styles.css
+D:\online-market--master\Market\obj\Debug\net6.0\scopedcss\projectbundle\Market.bundle.scp.css
+D:\online-market--master\Market\obj\Debug\net6.0\Market.csproj.CopyComplete
+D:\online-market--master\Market\obj\Debug\net6.0\Market.dll
+D:\online-market--master\Market\obj\Debug\net6.0\refint\Market.dll
+D:\online-market--master\Market\obj\Debug\net6.0\Market.pdb
+D:\online-market--master\Market\obj\Debug\net6.0\Market.genruntimeconfig.cache
+D:\online-market--master\Market\obj\Debug\net6.0\ref\Market.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.AssemblyInfo.cs
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\refint\Market.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.pdb
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Market.staticwebassets.runtime.json
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Market.exe
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Market.deps.json
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Market.runtimeconfig.json
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Market.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Market.pdb
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\MessagePack.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\scopedcss\bundle\Market.styles.css
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\scopedcss\projectbundle\Market.bundle.scp.css
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.csproj.CopyComplete
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\Market.genruntimeconfig.cache
+C:\Users\hp\Desktop\Software\online-market-\Market\obj\Debug\net6.0\ref\Market.dll

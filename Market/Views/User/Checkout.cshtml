@@ -1,0 +1,91 @@
+﻿@{
+      Layout = "/Views/Shared/CheckoutLayout.cshtml";
+	  var checkout=ViewData["checkout"];
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Table V01</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/vendor/bootstrap/css/bootstrap.min.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/vendor/animate/animate.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/vendor/select2/select2.min.css">
+
+	<link rel="stylesheet" type="text/css" href="vendor/perfect-scrollbar/perfect-scrollbar.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/css/util.css">
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/css/main.css">
+
+</head>
+
+<body>
+	<h2>Checkout</h2>
+@if (checkout == null)
+{
+    <div class="alert alert-danger">
+        <strong>No product added to cart!</strong>
+    </div>
+
+}
+@if(checkout !=null){
+
+	<div class="limiter">
+		<div class="container-table100">
+			<div class="wrap-table100">
+				<div class="table100">
+					<table>
+						<thead class="table table-bordered">
+							<tr class="table100-head" style="color:palevioletred">
+								<th class="column1">Product</th>
+								<th class="column2">Quantity</th>
+								<th class="column3">Add</th>
+							</tr>
+						</thead>
+						<tbody>
+							@foreach (var item in (IEnumerable<CartItem>)checkout)
+                             {
+								<tr>
+									<td class="co">@item.Product.name</td>
+									<td class="co">@item.Quantity</td>
+									<td class="co">
+                                       <a href="@Url.Action("AddItemToCart", "User", new { productId = @item.ProductId, url="Checkout" })">
+                                           <i class="fa fa-plus"></i>
+                                       </a>
+                                       <a href="@Url.Action("DecreaseQuantity", "User", new { productId = @item.ProductId })">
+                                           <i class="fa fa-minus"></i>
+                                       </a>
+                                    </td>
+									
+								</tr>
+							}
+						</tbody>
+					</table>
+					<a class ="btn btn-success" href="@Url.Action("CheckoutDetails","User")">Checkout</a>
+				</div>
+			</div>
+		</div>
+	</div>}
+
+
+	
+
+	<script src="~/assets/productTable/vendor/jquery/jquery-3.2.1.min.js"></script>
+
+	<script src="~/assets/productTable/vendor/bootstrap/js/popper.js"></script>
+	<script src="~/assets/productTable/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+	<script src="~/assets/productTable/vendor/select2/select2.min.js"></script>
+
+	<script src="~/assets/productTable/js/main.js"></script>
+
+</body>
+</html>

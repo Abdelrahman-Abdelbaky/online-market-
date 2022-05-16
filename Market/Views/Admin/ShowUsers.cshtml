@@ -1,0 +1,85 @@
+﻿@model List<User>
+
+@{
+     Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Table V01</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/vendor/bootstrap/css/bootstrap.min.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/vendor/animate/animate.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/vendor/select2/select2.min.css">
+
+	<link rel="stylesheet" type="text/css" href="vendor/perfect-scrollbar/perfect-scrollbar.css">
+
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/css/util.css">
+	<link rel="stylesheet" type="text/css" href="~/assets/productTable/css/main.css">
+
+</head>
+
+
+<body>
+	
+	<div class="limiter">
+		<div class="container-table100">
+			<div class="wrap-table100">
+				<div class="table100">
+					<table>
+						<thead>
+							<tr class="table100-head" style="background: #2487ce;">
+								<th class="column1">ID</th>
+								<th class="column2">Name</th>
+								<th class="column3">Email</th>
+								<th class="column4">Password</th>
+								<th class="column5">Mobile</th>
+								<th class="column6">Address</th>
+								<th class="column7"></th>
+
+							</tr>
+						</thead>
+						<tbody>
+							@{
+								foreach (var item in Model)
+								{
+								<tr>
+									<td class="column1">@item.Id</td>
+									<td class="column2">@item.Username</td>
+									<td class="column3">@item.Email</td>
+									<td class="column4">@item.Password</td>
+									<th class="column5">@item.Mobile</th>
+									<th class="column6">@item.Address</th>
+									<td class="column5"><a href="/Admin/DeleteUser/@item.Id" class="btn btn-danger">Delete</a></td>
+								</tr>
+								}
+							}
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	
+
+	<script src="~/assets/productTable/vendor/jquery/jquery-3.2.1.min.js"></script>
+
+	<script src="~/assets/productTable/vendor/bootstrap/js/popper.js"></script>
+	<script src="~/assets/productTable/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+	<script src="~/assets/productTable/vendor/select2/select2.min.js"></script>
+
+	<script src="~/assets/productTable/js/main.js"></script>
+
+</body>
+</html>

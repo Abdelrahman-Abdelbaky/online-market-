@@ -1,0 +1,53 @@
+﻿@{
+    Layout = "/Views/Shared/_LoginLayout.cshtml";
+}
+@model Admin
+
+<html>
+    <head>
+        <title>E-Market</title>
+        <link rel="shortcut icon" type="image/png" href="~/materials/market.png">
+        <link rel="stylesheet" href="~/Logincss/Login.css">
+        
+    </head>
+    <body>
+        <div class="wrapper fadeInDown">
+          <div id="formContent">
+            <!-- Tabs Titles -->
+            <h1 class="active"> Sign In as Admin </h1>
+            @*<h2 class="inactive underlineHover">Sign Up </h2>*@
+
+            <!-- Icon -->
+            <div class="fadeIn first">
+              <img src="~/materials/UserLogo.png"  />
+            </div>
+
+            <!-- Login Form -->
+            <form asp-action="AdminLogin" asp-controller="Admin">
+              <input type="email" asp-for="Email" class="fadeIn second"  placeholder="Email" required="">
+              <input type="password" asp-for="Password" class="fadeIn third" placeholder="Password" required="">
+              <input type="submit" class="fadeIn fourth" value="Log In">
+            </form>
+            <p style="font-family:sans-serif;font-size:12;">If you are new user, you can create a new account</p>
+            <a href="/Admin/AddminRegister"><button class="register__create" type="submit">Admin</button></a>
+
+            <!-- Remind Passowrd -->
+          </div>
+        </div>
+</body>
+</html>
+
+@{
+    if (TempData["LoginError"]!=null)
+    {
+        <script>
+           alert("@TempData["LoginError"]")
+        </script>
+    }
+    else if (TempData["Error"] != null)
+    {
+        <script>
+           alert("@TempData["Error"]")
+        </script>
+    }
+}

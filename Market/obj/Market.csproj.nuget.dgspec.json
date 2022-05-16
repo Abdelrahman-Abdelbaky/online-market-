@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fcai\\level3SemesterTwo\\SW2\\project\\online-market-\\Market\\Market.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Software\\online-market-\\Market\\Market.csproj": {}
   },
   "projects": {
-    "D:\\fcai\\level3SemesterTwo\\SW2\\project\\online-market-\\Market\\Market.csproj": {
+    "C:\\Users\\hp\\Desktop\\Software\\online-market-\\Market\\Market.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fcai\\level3SemesterTwo\\SW2\\project\\online-market-\\Market\\Market.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Software\\online-market-\\Market\\Market.csproj",
         "projectName": "Market",
-        "projectPath": "D:\\fcai\\level3SemesterTwo\\SW2\\project\\online-market-\\Market\\Market.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\fcai\\level3SemesterTwo\\SW2\\project\\online-market-\\Market\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Software\\online-market-\\Market\\Market.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Software\\online-market-\\Market\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,6 +63,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
             }
           },
           "imports": [
@@ -79,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

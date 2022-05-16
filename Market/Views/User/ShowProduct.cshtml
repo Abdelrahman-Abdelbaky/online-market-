@@ -1,0 +1,108 @@
+﻿
+
+
+  <link href="~/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="~/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="~/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="~/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="~/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="~/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="~/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+
+  <section style="margin-top:200px;" id="portfolio-details" class="portfolio-details">
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="~/@TempData["ShowProductImgSrc"] "alt="">
+                </div>
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+          </div>
+
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              <h3>product information</h3>
+              <ul>
+                 @{if ((int)TempData["showProductCategory"] == 0)
+                                        {
+                                <li><strong>Category</strong>:sports</li>
+                                         
+                                        }
+                                        else if ((int)TempData["showProductCategory"] == 1)
+                                        {
+   
+                                                <li><strong>Category</strong>:   ELECTRICAL APPLIANCES</li>
+                                         
+                                        }
+                                          else if ((int)TempData["showProductCategory"] == 2)
+                                        {
+                                            <li><strong>Category</strong>:  FOOD PRODUCTS</li>   
+                                       
+                                        }
+                                          else if ((int)TempData["showProductCategory"] == 3)
+                                        {
+                                           
+                                              
+                                         <li><strong>Category</strong>:</li>
+                                        }
+
+                                    }
+                <li><strong>Name</strong>: @TempData["ShowProductName"] </li>
+                <li><strong>price</strong>: @TempData["showProductPrice"]$ </li>
+              
+                    
+                            @{
+                                if (  (int)TempData["ShowproductCount"]>0)
+                                {
+                                   <li><strong>available Product</strong>:In stock </li>  
+
+                                }else{
+                                
+                                <li><strong>available Product</strong>:out of stock </li>
+                            }
+
+                        }
+                        <li>
+                        @using (Html.BeginForm("AddItemToCart","User", new{productId = (int)@TempData["productId"]},FormMethod.Post))
+                        {
+                            <button type="submit">Add to Cart</button>
+                        }
+                        </li>
+                        <li>
+                        @using (Html.BeginForm("RemoveItem","User", new{productId = (int)@TempData["productId"]},FormMethod.Post))
+                        {
+                            <button type="submit">Remove from Cart</button>
+                        }
+                        </li>
+                        <li>You must sign in to add in cart</li>
+                           
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>@TempData["ShowProductName"]</h2>
+              <p>
+               @TempData["showProductDescription"]
+              </p>
+            </div>
+
+            
+            <a href="/User/Comments/@TempData["productId"]" class="btn btn-link">Add comments</a>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Details Section -->
+    </main>
